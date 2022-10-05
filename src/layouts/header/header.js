@@ -8,7 +8,7 @@ export default function Header() {
                 <nav>
                     <ul>
                         <li>
-                            <a href="/"> Login </a>
+                            <a href="/auth"> Login </a>
                         </li>
                         <li>
                             <a href="/register"> Register </a>
