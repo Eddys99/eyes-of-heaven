@@ -1,0 +1,16 @@
+#footer-container {
+    background-color: #242424;
+}
+
+#footer-container p {
+    padding: 15px;
+    color: #7e7e7e;
+    text-align: center;
+}
+
+#footer-container a {
+     padding: 0 8px 0 8px;
+     color: #bdbdbd;
+     text-align: center;
+    text-decoration: none;
+ }
